@@ -1,5 +1,5 @@
 # AdivinaElNumero_CADAVID
-(LEER ESTE README EN SOLAPA "CODE", QUE ES DONDE SE MANTIENE EL FORMATO DEL TEXTO ORIGINAL)\n
+(LEER ESTE README EN SOLAPA "CODE", QUE ES DONDE SE MANTIENE EL FORMATO DEL TEXTO ORIGINAL)\N
 Este repositorio contiene:
 
 1. El fichero de código fuente de mi proyecto AdivinaElNumero_CADAVID . Esto es, el Main.kt creado con IntelliJ IDEA.
