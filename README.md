@@ -12,8 +12,8 @@ Este repositorio contiene:
    
 2. Un vídeo en el que muestro la ejecución del programa con todos sus casos de prueba.
 
-  CORRECCIÓN DE ERRORES DE LOCUCIÓN EN EL VÍDEO:
-  
+   CORRECCIÓN DE ERRORES DE LOCUCIÓN EN EL VÍDEO:
+
    2.1. En el minuto 1:11 yo debería haber dicho "Para poder mostrar todos los CASOS DE PRUEBA", en vez de "todas las soluciones".
    
    2.2. En 2:40 debería haber dicho "El número secreto era 2543" (en el output aparece así, soy yo el que lo dice mal al liarme con el 1er intento).
